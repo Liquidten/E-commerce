@@ -1,0 +1,8 @@
+Folder content:
+1. SQL DDL - SQL Folder
+2. Project Report - DatabaseProjectRepot.pdf
+3. Create database on localhost 
+4. Import DDL from SQL file
+5. Edit the database.yaml file to edit connection.
+6. Edit the connection on the init.py file
+7. Run the program - ON terminal use run.py
